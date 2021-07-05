@@ -1,0 +1,69 @@
+body{
+    margin:0;padding: 0;
+    font-family: 'Otomanopee One', sans-serif;
+    background-color: white;
+}
+.first-section{
+    width: 100%;
+    display: flex;
+}
+.left{
+    width: 50%;
+}
+.right{
+    width: 50%;
+}
+#right-image{
+    width: 400px;
+    margin-left: 130px;
+    margin-top: 220px;
+}
+.left{
+    
+    margin-top: 200px;
+    margin-left: 60px;
+}
+#this{
+    color: red;
+}
+.left h1{
+    font-size: 50px;
+}
+#order-here{
+    color: white;
+    background-image: linear-gradient(red, orange);
+    padding: 16px;
+    border-radius: 50px;
+    padding-top: 20px;
+    margin-right: 405px;
+}
+
+
+.section-two{
+    width: 100%;
+    display: flex;
+    background-image: url(images/wp4978361.jpg);
+    font-family: 'Galada', cursive;
+    font-size: 18px;
+    margin-top: 120px;
+
+}
+.section-tow-left{
+    width: 50%;
+}
+.section-tow-left img{
+   
+    margin-left: 150px;
+}
+
+.section-tow-right{
+    text-align: left;
+    padding: 100px;
+    width: 50%;
+}
+.section-tow-right a{
+    background-image: linear-gradient(red,yellow);
+    padding: 20px;
+    border-radius: 34px;
+    text-decoration: none;
+}
