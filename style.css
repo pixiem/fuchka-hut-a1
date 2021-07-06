@@ -112,3 +112,21 @@ body{
     margin-top: 50px;
     margin-right: 50px;
 }
+.stats{
+    
+    
+    padding: 53px;
+    box-shadow: 0px 0px 16px 0.1px grey;
+    border-radius:40px;
+    display: flex;
+    margin-top: 50px;
+    margin-left: 11%;
+    width: 70%;
+    
+
+}
+#amount{
+
+    width: 33%;
+    margin-left: 10%;
+}
